@@ -30,7 +30,7 @@ function RichTextEditor({onRichTextEditorChange,index,defaultValue}) {
     return (
     <div>
       <div className='flex justify-between my-2'>
-        <label className='text-xs'>Summery</label>
+        <label className='text-xs'>Summary</label>
         <Button variant="outline" size="sm" 
         onClick={GenerateSummeryFromAI}
         disabled={loading}
