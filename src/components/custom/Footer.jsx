@@ -40,7 +40,7 @@ export default function App() {
           </a>
           <a
             className="text-neutral-800 dark:text-neutral-200"
-            href="https://github.com/bitof-KARTIK"
+            href="https://github.com/bitof-KARTIK/ResumeForge"
             target="_blank"
             rel="noopener noreferrer"
           >
