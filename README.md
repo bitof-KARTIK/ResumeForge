@@ -1,5 +1,7 @@
 # ResumeForge
 
+Live Demo: https://resumeforge-main.vercel.app/
+
 ## Overview
 
 ResumeForge is an AI-powered web application that helps users create professional resumes effortlessly. With a user-friendly interface and advanced features, this app streamlines the process of designing and customizing resumes. Built with React, Vite, Tailwind CSS, Strapi, and Clerk, ResumeForge offers a modern and responsive experience for job seekers.
