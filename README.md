@@ -16,16 +16,24 @@ ResumeForge is an AI-powered web application that helps users create professiona
 
 Here are some screenshots showcasing ResumeForge in action:
 
-![Homepage](path/to/homepage_screenshot.png)
-*Homepage of ResumeForge*
+![Screenshot 2024-07-28 010510](https://github.com/user-attachments/assets/c803f68f-a28f-4206-aab6-dc255bcfb45c)
 
-![Resume Builder](path/to/resume_builder_screenshot.png)
-*AI-powered Resume Builder interface*
+![Screenshot 2024-07-28 010557](https://github.com/user-attachments/assets/34f3eaca-b2e2-4fbb-806a-a822e8e10f63)
 
-![Template Selection](path/to/template_selection_screenshot.png)
-*Resume template selection page*
+![Screenshot 2024-07-28 010733](https://github.com/user-attachments/assets/7c17f9e9-5786-4d12-abde-6a9dacdac2cb)
 
-(Note: Replace "path/to/screenshot.png" with the actual paths to your screenshots once you've added them to your repository)
+![Screenshot 2024-07-28 010811](https://github.com/user-attachments/assets/7a1a3800-045b-457d-986d-ccbe3ea93401)
+
+![Screenshot 2024-07-28 011823](https://github.com/user-attachments/assets/20d8f206-e8d3-488c-87c1-c2660c132f7a)
+
+![Screenshot 2024-07-28 011636](https://github.com/user-attachments/assets/7cf5aa49-5532-4877-827c-19dd418261a7)
+
+![Screenshot 2024-07-28 011735](https://github.com/user-attachments/assets/0b07d495-d5e1-4ae2-9968-aad9cbd5f30f)
+
+![Screenshot 2024-07-28 011755](https://github.com/user-attachments/assets/8d196374-3352-4dfe-830e-88808a49f412)
+
+![Screenshot 2024-07-28 011804](https://github.com/user-attachments/assets/4837d13b-68c7-4294-b9ce-e7a35c1be4df)
+
 
 ## Tech Stack
 
